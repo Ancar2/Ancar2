@@ -97,7 +97,7 @@ $ ls -la ./featured
 | **NexPOS** | Sistema de punto de venta con gestión de productos, inventario, ventas y operaciones de caja. | Angular · Node.js · Express · MongoDB |
 | **BankX** | Diseño de una plataforma fintech de banca digital con servicios financieros e integración Web3. | Fintech · APIs · MySQL · Web3 |
 | **[Model portafolio](https://mafeayala.clabs.click)** | Sitio web tipo portafolio para presentar el perfil y el trabajo de una modelo. | Angular · HTML · CSS · TypeScript |
-| **Pokémon Cards** | Proyecto frontend para explorar y presentar tarjetas Pokémon mediante manipulación del DOM. | JavaScript · DOM · HTML · CSS |
+| **[Pokémon Cards](https://github.com/Ancar2/Entregables/tree/main/Pokemon)** | Proyecto frontend para explorar y visualizar tarjetas Pokémon mediante manipulación del DOM e integración con una API externa. | JavaScript · DOM · HTML · CSS |
 | **[Loan Simulator](https://github.com/Ancar2/Loan-Simulator)** | Simulador web para realizar cálculos de préstamos. | JavaScript · HTML · CSS |
 
 <div align="center">
