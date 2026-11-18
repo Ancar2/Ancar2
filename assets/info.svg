@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="656" viewBox="0 0 840 656">
+<defs>
+ <clipPath id="frame"><rect x="0" y="0" width="840" height="656" rx="12"/></clipPath>
+ <style>
+  @keyframes blink { 0%,48% {opacity:1} 50%,100% {opacity:0} }
+  .cursor { animation: blink 1s steps(1,end) infinite; }
+ </style>
+</defs>
+<rect width="840" height="656" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.4"/>
+<g clip-path="url(#frame)">
+ <rect x="0" y="0" width="840" height="46" fill="#161b22"/>
+ <circle cx="22" cy="23" r="6" fill="#ff5f57"/><circle cx="42" cy="23" r="6" fill="#febc2e"/><circle cx="62" cy="23" r="6" fill="#28c840"/>
+ <text x="420" y="28" fill="#8b949e" font-family="monospace" font-size="13" text-anchor="middle">ancar@cardenaslabs — node profile.js</text>
+ <path d="M0 46H840" stroke="#30363d"/>
+<clipPath id="clip0"><rect x="34" y="64" width="0" height="24"><animate attributeName="width" values="0;0;342.25;342.25;0" keyTimes="0.00000;0.00000;0.00578;0.95871;1.00000" dur="72.660s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clip1"><rect x="34" y="98" width="0" height="24"><animate attributeName="width" values="0;0;175.75;175.75;0" keyTimes="0.00000;0.00578;0.01156;0.95871;1.00000" dur="72.660s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clip2"><rect x="60" y="125" width="0" height="24"><animate attributeName="width" values="0;0;323.75;323.75;0" keyTimes="0.00000;0.01156;0.01734;0.95871;1.00000" dur="72.660s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clip3"><rect x="60" y="149" width="0" height="24"><animate attributeName="width" values="0;0;277.5;277.5;0" keyTimes="0.00000;0.01734;0.02312;0.95871;1.00000" dur="72.660s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clip4"><rect x="60" y="173" width="0" height="24"><animate attributeName="width" values="0;0;185.0;185.0;0" keyTimes="0.00000;0.02312;0.02890;0.95871;1.00000" dur="72.660s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clip5"><rect x="60" y="197" width="0" height="24"><animate attributeName="width" values="0;0;314.5;314.5;0" keyTimes="0.00000;0.02890;0.03468;0.95871;1.00000" dur="72.660s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clip6"><rect x="34" y="221" width="0" height="24"><animate attributeName="width" values="0;0;18.5;18.5;0" keyTimes="0.00000;0.03468;0.04046;0.95871;1.00000" dur="72.660s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clip7"><rect x="34" y="251" width="0" height="24"><animate attributeName="width" values="0;0;138.75;138.75;0" keyTimes="0.00000;0.04046;0.04624;0.95871;1.00000" dur="72.660s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clip8"><rect x="60" y="276" width="0" height="24"><animate attributeName="width" values="0;0;434.75;434.75;0" keyTimes="0.00000;0.04624;0.05202;0.95871;1.00000" dur="72.660s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clip9"><rect x="60" y="298" width="0" height="24"><animate attributeName="width" values="0;0;351.5;351.5;0" keyTimes="0.00000;0.05202;0.05780;0.95871;1.00000" dur="72.660s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clip10"><rect x="60" y="323" width="0" height="24"><animate attributeName="width" values="0;0;351.5;351.5;0" keyTimes="0.00000;0.05780;0.06358;0.95871;1.00000" dur="72.660s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clip11"><rect x="60" y="348" width="0" height="24"><animate attributeName="width" values="0;0;379.25;379.25;0" keyTimes="0.00000;0.06358;0.06936;0.95871;1.00000" dur="72.660s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clip12"><rect x="60" y="373" width="0" height="24"><animate attributeName="width" values="0;0;268.25;268.25;0" keyTimes="0.00000;0.06936;0.07514;0.95871;1.00000" dur="72.660s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clip13"><rect x="60" y="398" width="0" height="24"><animate attributeName="width" values="0;0;536.5;536.5;0" keyTimes="0.00000;0.07514;0.08092;0.95871;1.00000" dur="72.660s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clip14"><rect x="60" y="423" width="0" height="24"><animate attributeName="width" values="0;0;527.25;527.25;0" keyTimes="0.00000;0.08092;0.08671;0.95871;1.00000" dur="72.660s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clip15"><rect x="60" y="448" width="0" height="24"><animate attributeName="width" values="0;0;425.5;425.5;0" keyTimes="0.00000;0.08671;0.09249;0.95871;1.00000" dur="72.660s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clip16"><rect x="34" y="473" width="0" height="24"><animate attributeName="width" values="0;0;18.5;18.5;0" keyTimes="0.00000;0.09249;0.09827;0.95871;1.00000" dur="72.660s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clip17"><rect x="34" y="503" width="0" height="24"><animate attributeName="width" values="0;0;166.5;166.5;0" keyTimes="0.00000;0.09827;0.10405;0.95871;1.00000" dur="72.660s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clip18"><rect x="60" y="528" width="0" height="24"><animate attributeName="width" values="0;0;379.25;379.25;0" keyTimes="0.00000;0.10405;0.10983;0.95871;1.00000" dur="72.660s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clip19"><rect x="60" y="550" width="0" height="24"><animate attributeName="width" values="0;0;397.75;397.75;0" keyTimes="0.00000;0.10983;0.11561;0.95871;1.00000" dur="72.660s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clip20"><rect x="34" y="575" width="0" height="24"><animate attributeName="width" values="0;0;18.5;18.5;0" keyTimes="0.00000;0.11561;0.12139;0.95871;1.00000" dur="72.660s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clip21"><rect x="34" y="603" width="0" height="24"><animate attributeName="width" values="0;0;397.75;397.75;0" keyTimes="0.00000;0.12139;0.12717;0.95871;1.00000" dur="72.660s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="clip22"><rect x="34" y="631" width="0" height="24"><animate attributeName="width" values="0;0;212.75;212.75;0" keyTimes="0.00000;0.12717;0.13295;0.95871;1.00000" dur="72.660s" repeatCount="indefinite"/></rect></clipPath>
+<text x="34" y="82" clip-path="url(#clip0)" fill="#54ff78" font-family="SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15.5" letter-spacing="0.1">ancar@cardenaslabs:~$ node profile.js</text>
+<text x="34" y="116" clip-path="url(#clip1)" fill="#c2ffd0" font-family="SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15.5" letter-spacing="0.1">const developer = {</text>
+<text x="60" y="143" clip-path="url(#clip2)" fill="#91eaa2" font-family="SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15.5" letter-spacing="0.1">nombre: &quot;Andrés Mauricio Cárdenas&quot;,</text>
+<text x="60" y="167" clip-path="url(#clip3)" fill="#91eaa2" font-family="SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15.5" letter-spacing="0.1">alias: &quot;Ancar · CardenasLabs&quot;,</text>
+<text x="60" y="191" clip-path="url(#clip4)" fill="#91eaa2" font-family="SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15.5" letter-spacing="0.1">país: &quot;Colombia 🇨🇴&quot;,</text>
+<text x="60" y="215" clip-path="url(#clip5)" fill="#91eaa2" font-family="SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15.5" letter-spacing="0.1">rol: &quot;Full Stack &amp; Web3 Developer&quot;</text>
+<text x="34" y="239" clip-path="url(#clip6)" fill="#c2ffd0" font-family="SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15.5" letter-spacing="0.1">};</text>
+<text x="34" y="269" clip-path="url(#clip7)" fill="#c2ffd0" font-family="SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15.5" letter-spacing="0.1">const stack = {</text>
+<text x="60" y="294" clip-path="url(#clip8)" fill="#91eaa2" font-family="SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15.5" letter-spacing="0.1">languages: [ JavaScript, TypeScript, Java, SQL,</text>
+<text x="60" y="316" clip-path="url(#clip9)" fill="#91eaa2" font-family="SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15.5" letter-spacing="0.1">              Solidity, HTML5, CSS3 ],</text>
+<text x="60" y="341" clip-path="url(#clip10)" fill="#91eaa2" font-family="SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15.5" letter-spacing="0.1">frontend: [ Angular, Bootstrap, DOM ],</text>
+<text x="60" y="366" clip-path="url(#clip11)" fill="#91eaa2" font-family="SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15.5" letter-spacing="0.1">backend: [ Node.js, Express, REST, JWT ],</text>
+<text x="60" y="391" clip-path="url(#clip12)" fill="#91eaa2" font-family="SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15.5" letter-spacing="0.1">database: [ MongoDB, MySQL ],</text>
+<text x="60" y="416" clip-path="url(#clip13)" fill="#91eaa2" font-family="SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15.5" letter-spacing="0.1">blockchain: [ Hardhat, OpenZeppelin, ethers.js, Polygon ],</text>
+<text x="60" y="441" clip-path="url(#clip14)" fill="#91eaa2" font-family="SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15.5" letter-spacing="0.1">cloud: [ AWS, EC2, S3, CloudFront, IAM, SecretsManager ],</text>
+<text x="60" y="466" clip-path="url(#clip15)" fill="#91eaa2" font-family="SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15.5" letter-spacing="0.1">infra: [ Nginx, PM2, Cloudflare, Git, GitHub ]</text>
+<text x="34" y="491" clip-path="url(#clip16)" fill="#c2ffd0" font-family="SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15.5" letter-spacing="0.1">};</text>
+<text x="34" y="521" clip-path="url(#clip17)" fill="#c2ffd0" font-family="SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15.5" letter-spacing="0.1">const projects = [</text>
+<text x="60" y="546" clip-path="url(#clip18)" fill="#91eaa2" font-family="SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15.5" letter-spacing="0.1">TrustPlay, CardenasLabs, BiVora, NoteWiz,</text>
+<text x="60" y="568" clip-path="url(#clip19)" fill="#91eaa2" font-family="SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15.5" letter-spacing="0.1">ModelPortfolio, NexPOS, BankX, PokemonCards</text>
+<text x="34" y="593" clip-path="url(#clip20)" fill="#c2ffd0" font-family="SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15.5" letter-spacing="0.1">];</text>
+<text x="34" y="621" clip-path="url(#clip21)" fill="#f2fff5" font-family="SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15.5" letter-spacing="0.1">console.log(&quot;Proyectos: cardenaslabs.com&quot;);</text>
+<text x="34" y="649" clip-path="url(#clip22)" fill="#54ff78" font-family="SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15.5" letter-spacing="0.1">ancar@cardenaslabs:~$ ▋</text>
+<rect class="cursor" x="246.75" y="632" width="9" height="19" fill="#54ff78"><animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;0.13295;0.13295;0.95871;0.98968;1" dur="72.660s" repeatCount="indefinite"/></rect>
+</g></svg>

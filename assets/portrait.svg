@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 845" width="760" height="845" role="img" aria-label="Retrato ASCII de Andrés Cárdenas">
+<title>Retrato ASCII de Andrés Cárdenas (Ancar)</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f0f6fc"/><stop offset="0.75" stop-color="#c9d1d9"/><stop offset="1" stop-color="#8b949e"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="759" height="844" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M0.5 12.5a12 12 0 0 1 12-12h735a12 12 0 0 1 12 12V40H0.5Z" fill="#161b22"/>
+<line x1="0.5" y1="40" x2="759.5" y2="40" stroke="#30363d"/>
+<circle cx="24" cy="20" r="6" fill="#ff5f56"/><circle cx="46" cy="20" r="6" fill="#ffbd2e"/><circle cx="68" cy="20" r="6" fill="#27c93f"/>
+<text x="380.0" y="25" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#8b949e">ancar@cardenaslabs: ~/avatar</text>
+<text x="24" y="68" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" textLength="343.2"><tspan fill="#7ee787">ancar@cardenaslabs</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">ascii --src avatar.png</tspan></text>
+<g font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="10.00" fill="url(#g)">
+<text x="20.0" y="92.0" textLength="396.0" lengthAdjust="spacing" xml:space="preserve">                                                   '"``,(:,,\:,!;_</text>
+<text x="20.0" y="103.6" textLength="444.0" lengthAdjust="spacing" xml:space="preserve">                                              `,_"^\iFaaCSoC[offF[i!",` ',</text>
+<text x="20.0" y="115.2" textLength="450.0" lengthAdjust="spacing" xml:space="preserve">                                            :^!|uauF[*;;r!^_\;._^ruC3au[\*;</text>
+<text x="20.0" y="126.8" textLength="468.0" lengthAdjust="spacing" xml:space="preserve">                                          `:[3oC[!^!,`"r,,;:`.`,"!|(il!TFFo";;</text>
+<text x="20.0" y="138.4" textLength="486.0" lengthAdjust="spacing" xml:space="preserve">                                       ,fuaaCl^;*_.. ,*_`'` `.'_",|r*fll;^CS3uC,,</text>
+<text x="20.0" y="150.0" textLength="492.0" lengthAdjust="spacing" xml:space="preserve">                                   ;'!iui*\f||i\!,,,',"_` '_;\;;!_!'` `_!!([Tuaul*</text>
+<text x="20.0" y="161.6" textLength="504.0" lengthAdjust="spacing" xml:space="preserve">                                 _\CFC(![iuC(\,`. `_*!",,"^,'` `'.','r"*T;,(iuCu3ur:</text>
+<text x="20.0" y="173.2" textLength="528.0" lengthAdjust="spacing" xml:space="preserve">                                .:io!;*(l!,:..  ,,'!^';_``,. ``` ,r!;[rr_!C[rif|![3Tir_`</text>
+<text x="20.0" y="184.8" textLength="522.0" lengthAdjust="spacing" xml:space="preserve">                              `fouiTr:||, `::,.!;``:'"!,'.   ``.``!",':(r,_uFTr^!*^!3a:</text>
+<text x="20.0" y="196.4" textLength="534.0" lengthAdjust="spacing" xml:space="preserve">                            :!aU3!|C_.[r.!|i!(", `';_!.```,,,,`     `:``.,!"^io3Ca[^*iSu"</text>
+<text x="20.0" y="208.0" textLength="546.0" lengthAdjust="spacing" xml:space="preserve">                            .T3|*.\("'_:r!__,:':",`,, ` ``^,,",,``:,:*!ll;!,.*l"!*rT\iuaoT,</text>
+<text x="20.0" y="219.6" textLength="552.0" lengthAdjust="spacing" xml:space="preserve">                           ,\3\^^`_^!_*!_.:``,` . `^``:,':",,;,,".`  .`',:"!!_!",^,;u,;lS3l`</text>
+<text x="20.0" y="231.2" textLength="552.0" lengthAdjust="spacing" xml:space="preserve">                           rui!'``:^lr"'  :^,,`'`'_^,.,_''   ,'.,.:`` ``.,r*`r3|Tl`!T3!!^So.</text>
+<text x="20.0" y="242.8" textLength="558.0" lengthAdjust="spacing" xml:space="preserve">                          ,3(!,.."^["',`:!*,';.`:.`':::  `^:_;.,'`'`` `_;;^!!fCu[r|!iC\\iCT!,</text>
+<text x="20.0" y="254.4" textLength="552.0" lengthAdjust="spacing" xml:space="preserve">                         _|u":`:*'!!'.,!\^.,` `,;:,^,``:,^_``   .'" `_.','_",`!_(l,"fr^|,CP!</text>
+<text x="20.0" y="266.0" textLength="558.0" lengthAdjust="spacing" xml:space="preserve">                         `|f_;;'.,;:.;(r","_`;,^"',"':*!'_*,,*_!^,^,'',:,,` `:, ';^\o!_i';uf.</text>
+<text x="20.0" y="277.6" textLength="558.0" lengthAdjust="spacing" xml:space="preserve">                         :|i_:`'!:(|l(a(_i|![l\ro[!f3uiuaC(l|lC[i\C|"i**;:_^;(r,'^(ri`"i`_o|_</text>
+<text x="20.0" y="289.2" textLength="558.0" lengthAdjust="spacing" xml:space="preserve">                          ll,::_!;lUla9T(||Su[C4iuP$4a4aiF$3oa3FFS[*TFlil!luTff(***\[\!;^_fF`</text>
+<text x="20.0" y="300.8" textLength="558.0" lengthAdjust="spacing" xml:space="preserve">                          if;(i\3*U9aQ009$0QR40KK&amp;K90&amp;RRK90990$9S[aS44a$4F3SSPSuT[\fKfl|li|a^</text>
+<text x="20.0" y="312.4" textLength="552.0" lengthAdjust="spacing" xml:space="preserve">                          *FrooTo\4PBRQQKQBBNRWQRQQKRQKRWQWQQQQR0099KKU&amp;449&amp;UU9P33[iai(fFCro</text>
+<text x="20.0" y="324.0" textLength="552.0" lengthAdjust="spacing" xml:space="preserve">                          ,3C33uF\u9WQQBRQWBNQBBQBB0QBQBWQWQQQB000KK90&amp;0K9$UPP43FF[r(C(o4([i</text>
+<text x="20.0" y="335.6" textLength="552.0" lengthAdjust="spacing" xml:space="preserve">                           TFFa3RQRQWQQBKRWQBQBBRBQRQQKQWQBQQRQ0RQKQRK0RKK&amp;944PouuTu9Uoa||P.</text>
+<text x="20.0" y="347.2" textLength="552.0" lengthAdjust="spacing" xml:space="preserve">                           \$FoQBNQBWQWN0BWB@QBNQWWBWNQB@QBNQBBQQ@RBBQBQRQKKU$US4440QRSFfCU`</text>
+<text x="20.0" y="358.8" textLength="546.0" lengthAdjust="spacing" xml:space="preserve">                           `PooNN@QW@QWQKKQBBQWWBWWB@NBNNQNBUQ@BBNQNQQRQQQRK9&amp;&amp;KQRQQBQQST3f</text>
+<text x="20.0" y="370.4" textLength="546.0" lengthAdjust="spacing" xml:space="preserve">                         `. !&amp;3BQ@RR9o[*!!!((fFo4SU$&amp;K90RKQ0R0QR0R9KK9P9$SSauTTCUKW@RQ@U3&amp;!</text>
+<text x="20.0" y="382.0" textLength="546.0" lengthAdjust="spacing" xml:space="preserve">                        FQQU\3u\*!!;_"^,"_"_,:,_^_:_^riC3U0$QK9$P4aFTi!",',,',_:,!|PBQ@&amp;93`</text>
+<text x="20.0" y="393.6" textLength="558.0" lengthAdjust="spacing" xml:space="preserve">                       r9\3R9[a`l;`,i\;uC*.`      .,,'_"_\iC$4oTr_;___,:,,,,:^!^^^":rifi3\fa|</text>
+<text x="20.0" y="405.2" textLength="564.0" lengthAdjust="spacing" xml:space="preserve">                       fafQFSS[F_ ',!*;`'.,`       ',, `,`!,,;,:,`.      `,",,",,_,. "\,uUQP9r</text>
+<text x="20.0" y="416.8" textLength="564.0" lengthAdjust="spacing" xml:space="preserve">                       r3$QPuf909`^",,'  ``  ``,,',_,`  ,,,;!_`,`    ``':,'.``,.`__,: 'fo$C^uF</text>
+<text x="20.0" y="428.4" textLength="564.0" lengthAdjust="spacing" xml:space="preserve">                       `URi|i[BQQ!,;:__,``'^^r^^"``    .,;&amp;WR4!`: `'"r,_,    `  .^_:;`PQu$Q*Pr</text>
+<text x="20.0" y="440.0" textLength="558.0" lengthAdjust="spacing" xml:space="preserve">                        iR\CPuNQQP`!,^^,;*\\!*'`      `,;0BNQUC,:`!;*_`        ':!"_,_WU_[Kuo</text>
+<text x="20.0" y="451.6" textLength="558.0" lengthAdjust="spacing" xml:space="preserve">                        `09f3oWQQW(__!*!rr*^.`     .``_*$0NWQ9ai.,!'`       ` "^"r;:,4NU|rCR,</text>
+<text x="20.0" y="463.2" textLength="552.0" lengthAdjust="spacing" xml:space="preserve">                         44KoiQBQBR|,;*!!^.        ^_,fK0QNW0Q$PT."`        `:r^^*",[QNUa[3&amp;</text>
+<text x="20.0" y="474.8" textLength="552.0" lengthAdjust="spacing" xml:space="preserve">                         ;Q0R$9BQQRQP[r^:.`.`''',,_!iUKUQBWW0QUP3i(_.'.,'``.,,r^__^oQQ@oT40*</text>
+<text x="20.0" y="486.4" textLength="546.0" lengthAdjust="spacing" xml:space="preserve">                          SQ9KS@QBQQQKUaoC[i|[|iTCa4$KP0@WW@QB099[F3oT;!",_^:^rr[aKQQBRaW0o</text>
+<text x="20.0" y="498.0" textLength="546.0" lengthAdjust="spacing" xml:space="preserve">                          `loPT@BNQBWQBB30QQBRBR&amp;93PBNQN@WB@NQQKKWKC9K0&amp;93ou[Co33P$KQNCR09'</text>
+<text x="20.0" y="509.6" textLength="540.0" lengthAdjust="spacing" xml:space="preserve">                              |RWQWN@WN@BWNNNQNR&amp;$3QB943$K0UKU3CFS0S$Q0QR0K9U$434So3QQT4T.</text>
+<text x="20.0" y="521.2" textLength="522.0" lengthAdjust="spacing" xml:space="preserve">                              [UB@0N@WW@WWNW@RRQKR9a3(||*u4FF\^^\iuCQ09KKKKKP$UooSo9R4`</text>
+<text x="20.0" y="532.8" textLength="516.0" lengthAdjust="spacing" xml:space="preserve">                              *o0@Q@@NN@BN@BKKQNQB@Q&amp;3S9UaaCC3C[ilSKBBRR0R0KUU$3o4oN0i</text>
+<text x="20.0" y="544.4" textLength="516.0" lengthAdjust="spacing" xml:space="preserve">                              ^CSQRB@QWNQWNQF4RQRRBK&amp;PoTio[iPF(iuP&amp;RQRQK0R0KPPU3a3S@P^</text>
+<text x="20.0" y="556.0" textLength="516.0" lengthAdjust="spacing" xml:space="preserve">                              'ff&amp;RQWB@@WWNBK$a333F4FTuF3F\ra$fTf[a4PP4K0BKQ9993o30&amp;C`</text>
+<text x="20.0" y="567.6" textLength="510.0" lengthAdjust="spacing" xml:space="preserve">                               4||KQ9UQ@W@WSC[fCuSU$90K9UKU409UK&amp;4SFuolCFUR9a$4uCUQF.</text>
+<text x="20.0" y="579.2" textLength="504.0" lengthAdjust="spacing" xml:space="preserve">                              ;BP,iP$aPQWWR3oFf((f[i\!r\riC|\|!|fCS4SoFouF00$$SoPKC:</text>
+<text x="20.0" y="590.8" textLength="498.0" lengthAdjust="spacing" xml:space="preserve">                        '!*!*PoB0o!l(a49RWQPaoF$&amp;KoTi[oF[f|(iF[f|;!;lff4SS0R$3[FCT:</text>
+<text x="20.0" y="602.4" textLength="492.0" lengthAdjust="spacing" xml:space="preserve">                    :r[3[^T0Q3lN0Pa":liu4QWRKUQWQ@NQ0$oaT4SaaaT[TF$9P94P4a9&amp;f\f!*:</text>
+<text x="20.0" y="614.0" textLength="486.0" lengthAdjust="spacing" xml:space="preserve">                `!iFol(*|RR04TCBKR&amp;4":\ff$R9Q0QWRB0&amp;0$$4l|ilCS$KKK9KKKUU4UUPifl!'</text>
+<text x="20.0" y="625.6" textLength="474.0" lengthAdjust="spacing" xml:space="preserve">          '"!llCCCr!\!"!iRPUuCTBQ&amp;(Tff:_\[oo3KRNQQQK$4oi;"!:!CCaP49SU44STaF[;!"</text>
+<text x="20.0" y="637.2" textLength="468.0" lengthAdjust="spacing" xml:space="preserve">      `"_!r\\r|!^!:!!_:^,3aPClFQ0a"(,ra^'^*(|CPWBBWWWQ49\:(:rPKR0K&amp;9Ka[Cr(!ru,</text>
+<text x="20.0" y="648.8" textLength="492.0" lengthAdjust="spacing" xml:space="preserve">    `^*(f|l(r!r;"*_,!__!"_3$F|30KKu(ra&amp;ai_,;;lu9U0Q0RRKU(l*\ua9&amp;9K9U4o|**:\K(iC\"`</text>
+<text x="20.0" y="660.4" textLength="522.0" lengthAdjust="spacing" xml:space="preserve">  ',!;^r!**r!"!:'.. ,,,":"'TulC900o[CTUPaf\,'*rffCC4uFPTl[(!C3CF[fFuli\!!i&amp;4,!^!TTi!"'`</text>
+<text x="20.0" y="672.0" textLength="558.0" lengthAdjust="spacing" xml:space="preserve"> ,,.',.'""!^,',`',_,.',",_,:*oraKPK\\(;4Pauf;,:"|r!i\r|l!r;_ri!|(^i^!;^f4SQ!,:;.*[!*TCT[|!"``</text>
+<text x="20.0" y="683.6" textLength="576.0" lengthAdjust="spacing" xml:space="preserve"> ,,,";,;_`,;.':.`._,_'.":_,^,^i[&amp;90K["""P99$4ur;*,^(:_!*:;::;r:;!:\,;faPSQT":_r 'lC;;""[(rlfTFl_</text>
+<text x="20.0" y="695.2" textLength="606.0" lengthAdjust="spacing" xml:space="preserve"> ,,,^,`''',"'`'.`',',,'.,",:,:,,uSK0$R&amp;KK9K4u$ao[\!"^`,,`'`,_,`';,r(44C$&amp;K`!,"!`,_[lr;|(,,!;!||CCTr",</text>
+<text x="20.0" y="706.8" textLength="630.0" lengthAdjust="spacing" xml:space="preserve">'"_:^_,^,,:^,:: .`:,,'',`,,,..'',!3f,i[rC0^:i999$aSSo|*_,.!,^!loo30Pal3&amp;R:,!,"! ,:,r|*r,,,;_^r!*r|(lCi\_`</text>
+<text x="20.0" y="718.4" textLength="642.0" lengthAdjust="spacing" xml:space="preserve">.`'.,;_!_,_;::;'``",,.',,.`,',,.,`,:,^!u9$oPU9UfC^roCfuu*(|rTUKRR9$C|C&amp;Kr _*,:!`::,:Ti,,.'":,;:_;!;^!![fTf_</text>
+<text x="20.0" y="730.0" textLength="660.0" lengthAdjust="spacing" xml:space="preserve">.__,,."!_::;,,;,,_'.''`.,,'``,,,,'_,`,CP3uCiio|aSi:!uU3o|[oa0FP99UFrf90[ `^!:*^,:,,`\C,,`',',;,:_^^_!"^(\i[3f,</text>
+<text x="20.0" y="741.6" textLength="672.0" lengthAdjust="spacing" xml:space="preserve">',,,,, _',:",._,,:,. `` ,,.,```''',,.,``.,!3Prr|iCoi!_:"lFUfiiCP4(|C$Pl. ,:;,\',,''..r:,``,..:',,::,",,,:r!!lii:</text>
+<text x="20.0" y="753.2" textLength="684.0" lengthAdjust="spacing" xml:space="preserve"> ,,,,' :_,.`.,;,,_^,^  ``,."','`.._:,:"`. `;!|orP4ufFFF[!,^FTFir!C943r` :_^\!:^::",,:!^"`',',_,.,"^_!"_,,*;*l*|f!,</text>
+<text x="20.0" y="764.8" textLength="690.0" lengthAdjust="spacing" xml:space="preserve">  ``.,``,,_:  `,,::,_,.   `,','.:```.,,`,.``  `';r;i!_;\u[!,"i\!a3T;'  ,","|;.^,,:,`:",_ ',,',.``,:,_,,.,",:!^;!;*_</text>
+<text x="20.0" y="776.4" textLength="696.0" lengthAdjust="spacing" xml:space="preserve">   `..` ,,,^''` `,:,",,,    `,. ``',````,..,,`       `..,:^,;!"^:`   .,__:^!`,"''_,',:,^`',,.:`` ,:,:,,  ,,':,_;:^r,</text>
+<text x="20.0" y="788.0" textLength="702.0" lengthAdjust="spacing" xml:space="preserve">         ,,_,'_  `,,,,,:.    ````.  ``,.```'._.'        ````    .`_,:^.___!,.,_,',.,:::_``',``   .,,:..` :`  `:^,,;::</text>
+<text x="20.0" y="799.6" textLength="708.0" lengthAdjust="spacing" xml:space="preserve">          ':,':,`  .,,,::,            ``.`.``'.`,`       `..',.',,_,.,,,!_`,,,_'','..,,^'.````    .` `.  '    `",,",",</text>
+</g>
+</svg>
